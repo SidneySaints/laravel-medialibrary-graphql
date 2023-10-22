@@ -12,7 +12,7 @@
     "require": {
         "laravel/framework": "^7.0||^8.0||^9.0||^10",
         "nuwave/lighthouse": "^4.16 || ^5 || ^6",
-        "spatie/laravel-medialibrary": "^8.0||^9.0||10.0",
+        "spatie/laravel-medialibrary": "^8.0||^9.0||^10.0",
         "marqant-lab/lighthouse-json": "^0.0.2",
         "marqant-lab/auth-graphql": "^0.0.11"
     },
